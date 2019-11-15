@@ -1,0 +1,16 @@
+Player 1:
+Movement keys: w,a,s,d
+Add item for chopping: z
+Start Chopping: x 
+Deliver the food to Customer: c
+Throw the food in dustbin: v
+Power Up: f
+
+
+Player 2:
+Movement keys: i,j,k,l
+Add item for chopping: ,
+Start Chopping: m 
+Deliver the food to Customer: n
+Throw the food in dustbin: b
+Power Up: h
